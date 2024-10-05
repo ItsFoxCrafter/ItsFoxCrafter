@@ -3,7 +3,7 @@
 - 🖥 I'm a Front-End Dev
 - 🌱 I’m currently learning full-stack development
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Introvert & Freelancer
+- ⚡ Fun fact: Freelancer
 
 <a href="https://app.daily.dev/itsfoxcrafter"><img src="https://api.daily.dev/devcards/v2/fGnAzG6QTBXJlzOUjlqkp.png?type=default&r=ya1" width="356" alt="ItsFoxCrafter's Dev Card"/></a>
 
