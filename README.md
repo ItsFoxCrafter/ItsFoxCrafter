@@ -1,13 +1,21 @@
-- 👋 Hi, I’m @ItsFoxCrafter
-- 👀 I’m interested in Programming and gaming
-- 🖥 I'm a Front-End Dev
-- 🌱 I’m currently learning full-stack development
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Freelancer
 
-<a href="https://app.daily.dev/itsfoxcrafter"><img src="https://api.daily.dev/devcards/v2/fGnAzG6QTBXJlzOUjlqkp.png?type=default&r=ya1" width="356" alt="ItsFoxCrafter's Dev Card"/></a>
+# Hi, I'm Adam! 👋
 
-<!---
-ItsFoxCrafter/ItsFoxCrafter is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+## 🚀 About Me
+- front-end developer
+- Lives in Egypt
+- Freelancer
+
+
+
+## 🛠 Skills
+Javascript, HTML, CSS
+
+
+## 🔗 Links
+[![Stackoverflow](https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27206642/adam-moustafa)
+[![Freelancer](https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/AdamT09)
+[![CodePen](https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ItsFoxCrafter)
+[![Frontend mentor](https://img.shields.io/badge/frontend_mentor-red?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/ItsFoxCrafter)
+
