@@ -12,9 +12,9 @@
 
 
 ## 🛠 Skills
-2 Years HTML, CSS, JavaScript
-1 Year Godot
->1 Year Python, Java
+- 2 Years HTML, CSS, JavaScript
+- 1 Year Godot
+- >1 Year Python, Java
 
 ## Projects I`m Working On!
 - a Veryy Spooky ARG
