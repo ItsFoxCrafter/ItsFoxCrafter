@@ -1,17 +1,24 @@
 
-# Hi, I'm Adam! 👋
+# Hello, ItsFoxCrafter Here! 👋
 
 
 ## 🚀 About Me
-- front-end developer
-- Lives in Egypt
+- Front-end Dev
 - Freelancer
+- Lives In Your Walls
+- Loves Listening to Niche Music
+- Loves Lots of Indie Games
 
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS
+2 Years HTML, CSS, JavaScript
+1 Year Godot
+>1 Year Python, Java
 
+## Projects I`m Working On!
+- a Veryy Spooky ARG
+- a Weirdcore Replica of Clippy
 
 ## 🔗 Links
 [![Stackoverflow](https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27206642/adam-moustafa)
