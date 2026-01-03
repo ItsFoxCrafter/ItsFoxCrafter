@@ -14,10 +14,10 @@
 ## 🛠 Skills
 - 2 Years HTML, CSS, JavaScript
 - 1 Year Godot
-- >1 Year Python, Java
+- less than 1 Year of Python, Java
 
 ## Projects I`m Working On!
-- a Veryy Spooky ARG
+- a Veryy Spooooky ARG
 - a Weirdcore Replica of Clippy
 
 ## 🔗 Links
