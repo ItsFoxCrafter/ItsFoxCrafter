@@ -1,28 +1,33 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=ItsFoxCrafter&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
-# Hello, ItsFoxCrafter Here! 👋
+# 👋 Hey, I'm ItsFoxCrafter
 
+Front-end Dev • Indie Game Enjoyer • ARG Architect  
+Probably inside your walls.
 
-## 🚀 About Me
-- Front-end Dev
-- Freelancer
-- Lives In Your Walls
-- Loves Listening to Niche Music
-- Loves Lots of Indie Games
+---
 
+## 📊 Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ItsFoxCrafter&show_icons=true&theme=nightowl)
 
-## 🛠 Skills
-- 2 Years HTML, CSS, JavaScript
-- 1 Year Godot
-- less than 1 Year of Python, Java
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ItsFoxCrafter&layout=compact&theme=nightowl)
 
-## Projects I`m Working On!
-- a Veryy Spooooky ARG
-- a Weirdcore Replica of Clippy
+---
 
-## 🔗 Links
-[![Stackoverflow](https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/27206642/adam-moustafa)
-[![Freelancer](https://img.shields.io/badge/Freelancer-blue?style=for-the-badge&logo=freelancer&logoColor=white)](https://www.freelancer.com/u/AdamT09)
-[![CodePen](https://img.shields.io/badge/Codepen-black?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/ItsFoxCrafter)
-[![Frontend mentor](https://img.shields.io/badge/frontend_mentor-red?style=for-the-badge&logo=frontendmentor&logoColor=white)](https://www.frontendmentor.io/profile/ItsFoxCrafter)
+## 🛠 Tech Stack
 
+(badges here)
+
+---
+
+## 🧠 Currently Working On
+
+- A Very Spooooky ARG  
+- Weirdcore Clippy Replica  
+
+---
+
+## 🌐 Links
+
+(badges here)
