@@ -1,4 +1,4 @@
-<h2 align="center">Hello, World! <br>My name is ItsFoxCrafter <br>and I'm a Front-end Dev <br>Living in ur Walls</h2>
+<h2 align="center">Hello, World! <br>My name is NeoVoid(aka. ItsFoxCrafter) <br>and I'm a Front-end Dev <br>Living in ur Walls</h2>
 
 ###
 
